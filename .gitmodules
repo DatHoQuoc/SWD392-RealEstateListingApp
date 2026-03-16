@@ -16,3 +16,6 @@
 [submodule "estate-search"]
 	path = estate-search
 	url = https://github.com/maikvibes/estate-search
+[submodule "notification-service"]
+	path = notification-service
+	url = https://github.com/DatHoQuoc/notification-service
