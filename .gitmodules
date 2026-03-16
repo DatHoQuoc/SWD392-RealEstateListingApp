@@ -10,3 +10,6 @@
 [submodule "estate-users"]
 	path = estate-users
 	url = https://github.com/the3dit0r/estate-users
+[submodule "Reporting-Service"]
+	path = Reporting-Service
+	url = https://github.com/hoangnd-ctrl/Reporting-Service
