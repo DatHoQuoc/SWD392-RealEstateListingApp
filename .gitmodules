@@ -13,3 +13,6 @@
 [submodule "Reporting-Service"]
 	path = Reporting-Service
 	url = https://github.com/hoangnd-ctrl/Reporting-Service
+[submodule "estate-search"]
+	path = estate-search
+	url = https://github.com/maikvibes/estate-search
