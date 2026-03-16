@@ -4,3 +4,9 @@
 [submodule "listing-service"]
 	path = listing-service
 	url = https://github.com/DatHoQuoc/listing-service
+[submodule "credit-service"]
+	path = credit-service
+	url = https://github.com/turtlenam05/credit-service
+[submodule "estate-users"]
+	path = estate-users
+	url = https://github.com/the3dit0r/estate-users
