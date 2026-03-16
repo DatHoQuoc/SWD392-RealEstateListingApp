@@ -1,0 +1,6 @@
+[submodule "estate-web"]
+	path = estate-web
+	url = https://github.com/DatHoQuoc/estate-web/
+[submodule "listing-service"]
+	path = listing-service
+	url = https://github.com/DatHoQuoc/listing-service
